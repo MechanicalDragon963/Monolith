@@ -1,0 +1,19 @@
+			--Credits--
+
+	People who contributed to the project:
+
+	-- Mechanical: main desinger, coder
+
+	-- dwarftough: code assistance, design assistance, testing
+
+	-- Bolyarich: design assistance, testing, mp promoting
+
+	-- ForestDragon: code assistance, testing
+	
+	-- Soliton: great help with color shifting code
+
+	Add-ons I took some assets from:
+
+	-- Era of Magic: kharos sun teleport anim as base for tribute anim
+
+	If I (Mechanical) missed anything, let me know by either messaging me on Sdiscord (orcsteve) or on the official forums.
